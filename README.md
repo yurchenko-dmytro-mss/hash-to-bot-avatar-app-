@@ -1,5 +1,5 @@
-# robofriends
-Tutorial for udemy course - React + Redux
+# hash-to-bot-avatar-app-
+React + Redux
 
 To run the project:
 
